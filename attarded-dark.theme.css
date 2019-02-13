@@ -1,3 +1,5 @@
+//META{"name":"attarded (dark)","description":"un theme basé sur aurora (version dark)","author":"ecnivtwelve","version":"1.0"}*//
+
 @import url('https://fonts.googleapis.com/css?family=Satisfy');
 @import url("https://ellexidecodes.github.io/Discord-Themes/css/new-tags.css");
 ::selection {background:var(--main-color-faded);}
