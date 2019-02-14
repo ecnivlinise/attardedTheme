@@ -6,8 +6,8 @@
   --hover-color: rgb(120, 67, 206); /*Couleur lorsque l'on passe la souris devant quelque chose.*/
   --main-color-faded: rgba(120, 67, 206, 0.2); /*Couleur transparente lorsque l'on passe la souris devant quelque chose.*/
 /*Fond d'écran*/
-  --backdrop: url(https://i.imgur.com/b1TP3sB.jpg); /*Fond d'écran*/
-  --backdropblurred: url(https://i.imgur.com/OpJ1xhN.jpg); /*Fond d'écran flou ou sombre*/
+  --backdrop: url(); /*Fond d'écran*/
+  --backdropblurred: url(); /*Fond d'écran flou ou sombre*/
   --backdrop-darkness:transparent; /*Luminosité du fond d'écran*/
 /*Arrondis*/
   --chat-avatar-roundness:70px !important; /*Arrondi des avatars*/
