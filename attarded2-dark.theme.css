@@ -1,0 +1,23 @@
+@import url('https://ecnivlinise.github.io/attardedTheme/base-dark.css');
+
+:root {
+/*Couleurs*/
+  --main-color: linear-gradient(150deg, #7725E7, #185a9d); /*Couleur principale.*/
+  --hover-color: rgb(120, 67, 206); /*Couleur lorsque l'on passe la souris devant quelque chose.*/
+  --main-color-faded: rgba(120, 67, 206, 0.2); /*Couleur transparente lorsque l'on passe la souris devant quelque chose.*/
+/*Fond d'écran*/
+  --backdrop: url(https://i.imgur.com/b1TP3sB.jpg); /*Fond d'écran*/
+  --backdropblurred: url(https://i.imgur.com/OpJ1xhN.jpg); /*Fond d'écran flou ou sombre*/
+  --backdrop-darkness:transparent; /*Luminosité du fond d'écran*/
+/*Arrondis*/
+  --chat-avatar-roundness:70px !important; /*Arrondi des avatars*/
+  --media-roundness:70px !important; /*Arrondi général*/
+  --guild-hovered-roundness:13px !important; /*Arrondi des serveurs actifs*/
+/*Couleurs de statut*/
+  --online: #43b581 !important; /*en ligne*/
+  --idle: #faa61a !important; /*idle*/
+  --dnd: #f04747 !important; /*ne pas déranger*/
+  --offline: #636b75 !important; /*déconnecté*/
+  --invisible: #747f8d !important; /*invisible*/
+  --streaming: #643da7 !important; /*streaming*/
+}
